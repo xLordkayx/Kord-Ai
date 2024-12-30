@@ -1,17 +1,17 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "2349067339193", // your number with country code
-  OWNER_NAME: 'Miracle', // your owner name 
-  BOT_NAME: "KORD", // your preferred bot name
-  SESSION_ID: '', // put your session id between the ''
-  INVINCIBLE_MODE: false, // toogle invincible mode 
-  WORK_MODE: "Public",
+  OWNER_NUMBERS: "2347045505096", // your number with country code
+  OWNER_NAME: 'lordkay', // your owner name 
+  BOT_NAME: "xTRA", // your preferred bot name
+  SESSION_ID: 'kord_ai-6771edea79c0b645b0fb6ce1', // put your session id between the ''
+  INVINCIBLE: true, // toogle invincible mode 
+  WORK_MODE: "private",
   TIME_ZONE: "Africa/Lagos",
-  ANTI_VIEWONCE: true,
+  ANTI_VIEWONCE: false,
   READ_ALL_MESSAGES: false,
   AUTO_READ_STATUS: true,
-  PREFIX: [".", "/", "!"],
+  PREFIX: [","],
   WELCOME_MESSAGE: "Hello! I'm KORD-AI, your friendly WhatsApp bot.",
   DEFAULT_TRANSLATION_LANG: "en",
   COMMAND_COOLDOWN_TIME_IN_MS: 0.01,
@@ -20,9 +20,9 @@ global.settings = {
   AUTO_LIKE_STATUS: true,
   AUTO_LIKE_EMOJI: '🍁',
   BANKING_DETAILS: {
-    bank: "Kord-Ai Bank", // the name of your preferred bank
-    acc_number: "1234567890", // account number for your preferred bank
-    acc_name: "MyAccountName" // name of your bank
+    bank: "Opay", // the name of your preferred bank
+    acc_number: "7045505096", // account number for your preferred bank
+    acc_name: "GiWa" // name of your bank
   },
   /* You can also replace the numbers with your addresses if you're using crypto, a command for this will come soon. */
   API_KEYS: {
